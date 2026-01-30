@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "id": "budget_rule_50_30_20",
+      "tags": ["budget", "rule", "50/30/20", "saving"],
+      "question": "What is the 50/30/20 budget rule?",
+      "answer": "The 50/30/20 rule suggests allocating 50% of income to needs, 30% to wants, and 20% to savings or debt repayment."
+    },
+    {
+      "id": "emergency_fund",
+      "tags": ["emergency", "fund", "savings"],
+      "question": "How big should my emergency fund be?",
+      "answer": "A common guideline is 3–6 months of essential expenses, starting with a smaller goal like $500–$1,000 and building up."
+    },
+    {
+      "id": "compound_interest",
+      "tags": ["interest", "compound", "investing"],
+      "question": "What is compound interest?",
+      "answer": "Compound interest is interest earned on both the original amount and previously earned interest, causing growth to accelerate over time."
+    },
+    {
+      "id": "greeting_hello",
+      "tags": ["hello", "hi", "hey", "greeting", "greet"],
+      "question": "Hello",
+      "answer": "👋 Hey there! I'm a financial assistant bot. Ask me about budgeting, saving, emergency funds, or compound interest!"
+    },
+    {
+      "id": "greeting_hi",
+      "tags": ["hi", "hello", "hey", "greet"],
+      "question": "Hi",
+      "answer": "👋 Hi! How can I help you with your finances today?"
+    },
+    {
+      "id": "greeting_hey",
+      "tags": ["hey", "hello", "hi", "greeting"],
+      "question": "Hey",
+      "answer": "👋 Hey! Feel free to ask me any financial questions!"
+    },
+    {
+      "id": "greeting_thanks",
+      "tags": ["thanks", "thank", "appreciate", "grateful"],
+      "question": "Thanks",
+      "answer": "You're welcome! 😊 Happy to help with your finances!"
+    },
+    {
+      "id": "greeting_help",
+      "tags": ["help", "assist", "support"],
+      "question": "Can you help me?",
+      "answer": "Of course! I'm here to help with financial questions. Ask me about budgeting, saving, emergency funds, or investing!"
+    },
+    {
+      "id": "greeting_how_are_you",
+      "tags": ["how", "you", "doing", "doing", "are"],
+      "question": "How are you?",
+      "answer": "I'm doing great, thanks for asking! 😊 Ready to help with your finances!"
+    }
+  ]
+}
